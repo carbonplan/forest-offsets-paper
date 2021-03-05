@@ -1,0 +1,11 @@
+name: carbonplan
+channels:
+  - conda-forge
+dependencies:
+  - fsspec
+  - geopandas
+  - matplotlib
+  - numpy
+  - pandas
+  - shapely
+  - statsmodels
