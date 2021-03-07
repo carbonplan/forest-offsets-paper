@@ -1,6 +1,6 @@
 <img
-  src='https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png'
-  height='48'
+  src="https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png"
+  height="48"
 />
 
 # carbonplan / retro-paper
