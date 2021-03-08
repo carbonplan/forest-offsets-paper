@@ -1,10 +1,11 @@
-name: carbonplan
+name: python3
 channels:
   - conda-forge
 dependencies:
   - fsspec
   - geopandas
   - matplotlib
+  - nbconvert
   - nb_conda_kernels
   - numpy
   - pandas
