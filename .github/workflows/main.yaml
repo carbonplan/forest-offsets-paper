@@ -34,6 +34,18 @@ jobs:
         run: |
           for nb in **/*.ipynb; do echo $nb; time jupyter nbconvert --to notebook --execute $nb; done
 
+  repo2docker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout files in repo
+        uses: actions/checkout@main
+      - name: update jupyter dependencies with repo2docker
+        uses: jupyterhub/repo2docker-action@master
+        with:
+          DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+          NO_PUSH: ${{ github.event_name == 'pull_request' }}
+
   lint:
     runs-on: ubuntu-latest
     steps:
