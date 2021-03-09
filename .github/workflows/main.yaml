@@ -42,9 +42,7 @@ jobs:
       - name: update jupyter dependencies with repo2docker
         uses: jupyterhub/repo2docker-action@master
         with:
-          DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
-          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
-          NO_PUSH: ${{ github.event_name == 'pull_request' }}
+          NO_PUSH: "true"
 
   lint:
     runs-on: ubuntu-latest
