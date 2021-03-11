@@ -2,6 +2,7 @@ name: python3
 channels:
   - conda-forge
 dependencies:
+  - aiohttp
   - fsspec
   - geopandas
   - matplotlib
