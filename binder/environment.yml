@@ -5,8 +5,6 @@ dependencies:
   - fsspec
   - geopandas
   - matplotlib
-  - nbconvert
-  - nb_conda_kernels
   - numpy
   - pandas
   - shapely

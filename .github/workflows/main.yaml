@@ -21,13 +21,14 @@ jobs:
           channels: conda-forge
           environment-file: binder/environment.yml
           python-version: ${{ matrix.python-version }}
-          activate-environment: carbonplan
+          activate-environment: python3
       - shell: bash -l {0}
         run: |
           conda info
           conda list
       - shell: bash -l {0}
         run: |
+          mamba install -c conda-forge jupyter nbconvert
           jupyter kernelspec install --user --name python3
       - shell: bash -l {0}
         name: Running Tests
