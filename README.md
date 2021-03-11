@@ -26,63 +26,27 @@ Here we describe all of the datasets used in this project.
 
 ### primary sources
 
-#### digitized ifm project records
-
-- Description: TODO
-- Source: https://carbonplan.blob.core.windows.net/carbonplan-retro/projects/retro-db-light-v1.0.json
-- Schema: JSON (link)
+| Dataset                       | Description | Source                                                                                              | Format / Schema   |
+| ----------------------------- | ----------- | --------------------------------------------------------------------------------------------------- | ----------------- |
+| digitized ifm project records | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/projects/retro-db-light-v1.0.json) | JSON ([schema]()) |
 
 ### results
 
-#### reclassification-crediting-error
-
-- Description: TODO
-- Source: https://carbonplan.blob.core.windows.net/carbonplan-retro/results/reclassification-crediting-error.json
-- Schema: JSON (link)
-
-#### prism-supersections
-
-- Description: TODO
-- Source: https://carbonplan.blob.core.windows.net/carbonplan-retro/arbitrage/prism-supersections/79.json
-- Schema: GeoJSON
-
-#### crediting-verification
-
-- Description: TODO
-- Source: https://carbonplan.blob.core.windows.net/carbonplan-retro/results/crediting-verification.json
-- Schema: JSON (link)
-
-#### common-practice-verification
-
-- Description: TODO
-- Source: https://carbonplan.blob.core.windows.net/carbonplan-retro/results/common-practice-verification.json
-- Schema: JSON (link)
-
-#### classifier_fscores
-
-- Description: TODO
-- Source: https://carbonplan.blob.core.windows.net/carbonplan-retro/reclassification/classifier_fscores.json
-- Schema: JSON (link)
-
-#### reclassification-labels
-
-- Description: TODO
-- Source: https://carbonplan.blob.core.windows.net/carbonplan-retro/results/reclassification-labels.json
-- Schema: JSON (link)
+| Dataset                          | Description | Source                                                                                                          | Format / Schema   |
+| -------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------- | ----------------- |
+| reclassification-crediting-error | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/results/reclassification-crediting-error.json) | JSON ([schema]()) |
+| prism-supersections              | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/arbitrage/prism-supersections/79.json)         | JSON ([schema]()) |
+| crediting-verification           | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/results/crediting-verification.json)           | JSON ([schema]()) |
+| common-practice-verification     | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/results/common-practice-verification.json)     | JSON ([schema]()) |
+| classifier_fscores               | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/reclassification/classifier_fscores.json)      | JSON ([schema]()) |
+| reclassification-labels          | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/results/reclassification-labels.json)          | JSON ([schema]()) |
 
 ### gis layers
 
-#### ne_110m_admin_1_states_provinces
-
-- Description: Natural Earth State and Province geometries.
-- Source: https://carbonplan.blob.core.windows.net/carbonplan-retro/ancillary/ne_110m_admin_1_states_provinces.json
-- Schema: GeoJSON
-
-#### S_USA.EcomapSections
-
-- Description: USDA EcomapSections dataset.
-- Source: https://data.fs.usda.gov/geodata/edw/edw_resources/shp/S_USA.EcomapSections.zip
-- Schema: Shapefile
+| Dataset                          | Description                                  | Source                                                                                                            | Format / Schema |
+| -------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------- |
+| ne_110m_admin_1_states_provinces | Natural Earth State and Province geometries. | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/ancillary/ne_110m_admin_1_states_provinces.json) | GeoJSON         |
+| EcomapSections                   | USDA EcomapSections dataset.                 | [link](https://data.fs.usda.gov/geodata/edw/edw_resources/shp/S_USA.EcomapSections.zip)                           | ESRI Shapefile  |
 
 ## license
 
