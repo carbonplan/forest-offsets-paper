@@ -8,5 +8,6 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - requests
   - shapely
   - statsmodels
