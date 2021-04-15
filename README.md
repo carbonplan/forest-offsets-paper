@@ -5,7 +5,7 @@
 
 # carbonplan / forest-offsets-paper
 
-**jupyter notebooks that reproduce the figures from Badgely et al. (pending submission)**
+**jupyter notebooks that reproduce the figures from Badgely et al. (in review)**
 
 [![GitHub][github-badge]][github]
 [![Build Status]][actions]
@@ -22,31 +22,10 @@ For more information on this project, see the [carbonplan/forest-offsets](https:
 
 ## data
 
-Here we describe all of the datasets used in this project.
+See the following Zenodo archives for descriptions of the data used in this repository:
 
-### primary sources
-
-| Dataset                       | Description | Source                                                                                              | Format / Schema   |
-| ----------------------------- | ----------- | --------------------------------------------------------------------------------------------------- | ----------------- |
-| digitized ifm project records | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/projects/retro-db-light-v1.0.json) | JSON ([schema]()) |
-
-### results
-
-| Dataset                          | Description | Source                                                                                                          | Format / Schema   |
-| -------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------- | ----------------- |
-| reclassification-crediting-error | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/results/reclassification-crediting-error.json) | JSON ([schema]()) |
-| prism-supersections              | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/arbitrage/prism-supersections/79.json)         | JSON ([schema]()) |
-| crediting-verification           | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/results/crediting-verification.json)           | JSON ([schema]()) |
-| common-practice-verification     | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/results/common-practice-verification.json)     | JSON ([schema]()) |
-| classifier_fscores               | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/reclassification/classifier_fscores.json)      | JSON ([schema]()) |
-| reclassification-labels          | TODO        | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/results/reclassification-labels.json)          | JSON ([schema]()) |
-
-### gis layers
-
-| Dataset                          | Description                                  | Source                                                                                                            | Format / Schema |
-| -------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------- |
-| ne_110m_admin_1_states_provinces | Natural Earth State and Province geometries. | [link](https://carbonplan.blob.core.windows.net/carbonplan-retro/ancillary/ne_110m_admin_1_states_provinces.json) | GeoJSON         |
-| EcomapSections                   | USDA EcomapSections dataset.                 | [link](https://data.fs.usda.gov/geodata/edw/edw_resources/shp/S_USA.EcomapSections.zip)                           | ESRI Shapefile  |
+- G. Badgley, J. Freeman, J. J. Hamman, B. Haya, D. Cullenward, California improved forest management offset project database (Version 1.0) https:/doi.org/http://doi.org/10.5281/zenodo.4630684.
+- G. Badgley, et al., Systematic over-crediting in California’s forest carbon offsets program (Version 1.0) https:/doi.org/http://doi.org/10.5281/zenodo.4630712.
 
 ## license
 

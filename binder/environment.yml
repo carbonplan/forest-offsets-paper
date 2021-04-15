@@ -9,5 +9,6 @@ dependencies:
   - numpy
   - pandas
   - requests
+  - seaborn
   - shapely
   - statsmodels
