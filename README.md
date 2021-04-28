@@ -7,12 +7,10 @@
 
 **jupyter notebooks that reproduce the figures from Badgely et al. (in review)**
 
-[![GitHub][github-badge]][github]
 [![Build Status]][actions]
 ![MIT License][]
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carbonplan/forrest-offsets-paper/main?urlpath=lab)
 
-[github]: https://github.com/carbonplan/forest-offsets-paper
 [github-badge]: https://badgen.net/badge/-/github?icon=github&label
 [build status]: https://github.com/carbonplan/forest-offsets-paper/actions/workflows/main.yaml/badge.svg
 [actions]: https://github.com/carbonplan/forest-offsets-paper/actions/workflows/main.yaml
@@ -24,8 +22,8 @@ For more information on this project, see the [carbonplan/forest-offsets](https:
 
 See the following Zenodo archives for descriptions of the data used in this repository:
 
-- G. Badgley, J. Freeman, J. J. Hamman, B. Haya, D. Cullenward, California improved forest management offset project database (Version 1.0) https:/doi.org/http://doi.org/10.5281/zenodo.4630684.
-- G. Badgley, et al., Systematic over-crediting in California’s forest carbon offsets program (Version 1.0) https:/doi.org/http://doi.org/10.5281/zenodo.4630712.
+- G. Badgley, J. Freeman, J. J. Hamman, B. Haya, D. Cullenward, California improved forest management offset project database (Version 1.0) http://doi.org/10.5281/zenodo.4630684.
+- G. Badgley, et al., Systematic over-crediting in California’s forest carbon offsets program (Version 1.0) http://doi.org/10.5281/zenodo.4630712.
 
 ## license
 
