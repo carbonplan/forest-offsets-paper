@@ -11,4 +11,5 @@ dependencies:
   - requests
   - seaborn
   - shapely
+  - scikit-learn
   - statsmodels
