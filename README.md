@@ -5,7 +5,7 @@
 
 # carbonplan / forest-offsets-paper
 
-**jupyter notebooks that reproduce the figures from Badgely et al. (in review)**
+**jupyter notebooks for reproducing forest offset analysis figures**
 
 [![Build Status]][actions]
 ![MIT License][]
@@ -17,7 +17,7 @@
 [actions]: https://github.com/carbonplan/forest-offsets-paper/actions/workflows/main.yaml
 [mit license]: https://badgen.net/badge/license/MIT/blue
 
-For more information on this project, see the [carbonplan/forest-offsets](https://github.com/carbonplan/forest-offsets-paper) repository.
+This repository includes Jupyter notebooks for reproducing figures related to our analysis of California's compliance forest carbon offsets program. This work is described in more detail in a [web article](https://carbonplan.org/research/forest-offsets-explainer) and a [preprint](). For more information on this project, see the [carbonplan/forest-offsets](https://github.com/carbonplan/forest-offsets-paper) repository.
 
 ## data
 
