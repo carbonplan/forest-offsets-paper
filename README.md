@@ -10,6 +10,7 @@
 [![Build Status]][actions]
 ![MIT License][]
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carbonplan/forrest-offsets-paper/main?urlpath=lab)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4631227.svg)](https://doi.org/10.5281/zenodo.4631227)
 
 [github-badge]: https://badgen.net/badge/-/github?icon=github&label
 [build status]: https://github.com/carbonplan/forest-offsets-paper/actions/workflows/main.yaml/badge.svg
