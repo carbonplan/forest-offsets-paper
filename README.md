@@ -5,7 +5,7 @@
 
 # carbonplan / forest-offsets-paper
 
-**jupyter notebooks for reproducing figures from our analysis of forest offsets**
+**jupyter notebooks for reproducing figures from an analysis of forest offset projects**
 
 [![Build Status]][actions]
 ![MIT License][]
