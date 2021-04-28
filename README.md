@@ -10,7 +10,7 @@
 [![GitHub][github-badge]][github]
 [![Build Status]][actions]
 ![MIT License][]
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carbonplan/retro-paper/main?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carbonplan/forrest-offsets-paper/main?urlpath=lab)
 
 [github]: https://github.com/carbonplan/forest-offsets-paper
 [github-badge]: https://badgen.net/badge/-/github?icon=github&label
