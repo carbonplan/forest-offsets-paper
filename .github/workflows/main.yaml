@@ -39,7 +39,7 @@ jobs:
             if [[ $nb == "notebooks/Inline-Statistics.ipynb" ]]; then
               echo "skipping $nb"
               continue
-            done
+            fi
             time jupyter nbconvert --to notebook --execute $nb
           done
 
