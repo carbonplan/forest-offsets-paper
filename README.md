@@ -21,7 +21,7 @@ This repository includes Jupyter notebooks for reproducing figures related to ou
 
 - G Badgley, J Freeman, J Hamman, B Haya, A T Trugman, W R L Anderegg, D Cullenward (2021) Systematic over-crediting in California’s forest carbon offsets program, bioRxiv, TK
 
-This work is also described in a [web article](https://carbonplan.org/research/forest-offsets-explainer). For a more comprehensive version of our analysis code, see the [carbonplan/forest-offsets](https://github.com/carbonplan/forest-offsets-paper) repository.
+You can download and run the notebooks to genreate these figures locally, or use Binder to run them in a cloud environment. This work is described in more detail in the preprint and in a [web article](https://carbonplan.org/research/forest-offsets-explainer). For a more comprehensive version of our analysis code, see the [carbonplan/forest-offsets](https://github.com/carbonplan/forest-offsets-paper) repository.
 
 ## data
 
