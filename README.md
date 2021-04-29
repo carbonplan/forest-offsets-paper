@@ -21,8 +21,8 @@
 This repository includes Jupyter notebooks for reproducing figures related to our analysis of California's compliance forest carbon offsets program. A paper with these figures is currently posted as a preprint:
 
 - Systematic over-crediting in California's forest carbon offsets program
-Grayson Badgley, Jeremy Freeman, Joseph J. Hamman, Barbara Haya, Anna T. Trugman, William R. L. Anderegg, Danny Cullenward
-bioRxiv 2021.04.28.441870; doi: https://doi.org/10.1101/2021.04.28.441870
+  Grayson Badgley, Jeremy Freeman, Joseph J. Hamman, Barbara Haya, Anna T. Trugman, William R. L. Anderegg, Danny Cullenward
+  bioRxiv 2021.04.28.441870; doi: https://doi.org/10.1101/2021.04.28.441870
 
 You can download and run the notebooks to genreate these figures locally, or use Binder to run them in a cloud environment. This work is described in more detail in the preprint and in a [web article](https://carbonplan.org/research/forest-offsets-explainer). For a more comprehensive version of our analysis code, see the [carbonplan/forest-offsets](https://github.com/carbonplan/forest-offsets-paper) repository.
 
