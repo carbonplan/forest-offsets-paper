@@ -10,8 +10,8 @@
 [![Build Status]][actions]
 ![MIT License][]
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carbonplan/forrest-offsets-paper/main?urlpath=lab)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4631227.svg)](https://doi.org/10.5281/zenodo.4631227)
-[![DOI:10.1101/2021.04.28.441870](http://img.shields.io/badge/DOI-10.1101/2021.04.28.441870-808080.svg)](https://doi.org/10.1101/2021.04.28.441870)
+[![DOI](https://img.shields.io/badge/code-10.5281/zenodo.4631227-6aa3d5?link=https://doi.org/10.5281/zenodo.4631227)](https://doi.org/10.5281/zenodo.4631227)
+[![DOI:10.1101/2021.04.28.441870](http://img.shields.io/badge/preprint-10.1101/2021.04.28.441870-9f3a44.svg)](https://doi.org/10.1101/2021.04.28.441870)
 
 [github-badge]: https://badgen.net/badge/-/github?icon=github&label
 [build status]: https://github.com/carbonplan/forest-offsets-paper/actions/workflows/main.yaml/badge.svg
