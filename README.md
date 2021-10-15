@@ -31,7 +31,7 @@ You can download and run the notebooks to genreate these figures locally, or use
 See the following Zenodo archives for descriptions of the data used in this repository:
 
 - G Badgley, J Freeman, J J Hamman, B Haya, D Cullenward (2021) California improved forest management offset project database (Version 1.0) http://doi.org/10.5281/zenodo.4630684.
-- G Badgley, et al. (2021) Systematic over-crediting in California’s forest carbon offsets program (Version 1.1) https://doi.org/10.5281/zenodo.4630711.
+- G Badgley, et al. (2021) Systematic over-crediting in California’s forest carbon offsets program https://doi.org/10.5281/zenodo.4630711.
 
 ## license
 
