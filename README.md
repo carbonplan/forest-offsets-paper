@@ -1,22 +1,21 @@
-<img
-  src="https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png"
-  height="48"
-/>
+<p align="left" >
+<a href='https://carbonplan.org'>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://carbonplan-assets.s3.amazonaws.com/monogram/light-small.png">
+  <img alt="CarbonPlan monogram." height="48" src="https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png">
+</picture>
+</a>
+</p>
 
 # carbonplan / forest-offsets-paper
 
 **jupyter notebooks for reproducing figures from an analysis of forest offset projects**
 
-[![Build Status]][actions]
-![MIT License][]
+[![CI](https://github.com/carbonplan/forest-offsets-paper/actions/workflows/main.yaml/badge.svg)](https://github.com/carbonplan/forest-offsets-paper/actions/workflows/main.yaml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carbonplan/forrest-offsets-paper/main?urlpath=lab)
 [![DOI](https://img.shields.io/badge/code-10.5281/zenodo.4631226-6aa3d5?link=https://doi.org/10.5281/zenodo.4631226)](https://doi.org/10.5281/zenodo.4631226)
 [![DOI:10.1101/2021.04.28.441870](http://img.shields.io/badge/preprint-10.1101/2021.04.28.441870-9f3a44.svg)](https://doi.org/10.1101/2021.04.28.441870)
-
-[github-badge]: https://badgen.net/badge/-/github?icon=github&label
-[build status]: https://github.com/carbonplan/forest-offsets-paper/actions/workflows/main.yaml/badge.svg
-[actions]: https://github.com/carbonplan/forest-offsets-paper/actions/workflows/main.yaml
-[mit license]: https://badgen.net/badge/license/MIT/blue
 
 This repository includes Jupyter notebooks for reproducing figures related to our analysis of California's compliance forest carbon offsets program. A paper with these figures is currently posted as a preprint:
 
@@ -35,8 +34,8 @@ See the following Zenodo archives for descriptions of the data used in this repo
 
 ## license
 
-All the code in this repository is [MIT](https://choosealicense.com/licenses/mit/) licensed, but we request that you please provide attribution if reusing any of our digital content (graphics, logo, articles, etc.).
+All the code in this repository is [MIT](https://choosealicense.com/licenses/mit/)-licensed, but we request that you please provide attribution if reusing any of our digital content (graphics, logo, articles, etc.).
 
 ## about us
 
-CarbonPlan is a non-profit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. Find out more at [carbonplan.org](https://carbonplan.org/) or get in touch by [opening an issue](https://github.com/carbonplan/forest-offsets-paper/issues/new) or [sending us an email](mailto:hello@carbonplan.org).
+CarbonPlan is a nonprofit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. Find out more at [carbonplan.org](https://carbonplan.org/) or get in touch by [opening an issue](https://github.com/carbonplan/forest-offsets-paper/issues/new) or [sending us an email](mailto:hello@carbonplan.org).
